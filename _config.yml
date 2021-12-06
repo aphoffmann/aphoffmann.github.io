@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Space Science and Engineering"
 title_separator          : "-"
 name                     : &name "Alex Paul Hoffmann"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Alex Paul Hoffmann"
   avatar           : "profile.png"
   bio              : "Space Science Ph.D. Student"
-  location         : "Ann ARbor"
+  location         : "Ann Arbor"
   employer         : "University Of Michigan"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
