@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Space Science and Engineering"
+title                    : "Alex Hoffmann"
 title_separator          : "-"
 name                     : &name "Alex Paul Hoffmann"
-description              : &description "personal description"
+description              : &description "Ph.D. Student, University of Michigan"
 url                      : https://aphoffmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aphoffmann/aphoffmann.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alex Paul Hoffmann"
   avatar           : "profile.png"
-  bio              : "Space Science Ph.D. Student"
-  location         : "Ann Arbor"
-  employer         : "University Of Michigan"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Space Physics Ph.D. Student"
+  location         : 
+  employer         : 
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "aphoff@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "aphoffmann_"
   vine             :
   weibo            :
   xing             :
