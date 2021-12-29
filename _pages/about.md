@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Heliophysics & Spaceborne Magnetometry"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a <strong>Computer Engineer<\strong> and <strong>Space Physicist<\strong> at the University of Michigan. I graduated from the University of Iowa with a dual degree in Computer Science and Engineering, and I am now studying Space Physics at the University of Michigan. My goal is to be a <q>Full Stack<\q> Space Engineer and Space Scientist. This comprises of both instrumentation design and data analysis. Semper Supra!
+I am a <strong>Computer Engineer</strong> and <strong>Space Physicist</strong> at the University of Michigan. I graduated from the University of Iowa with a dual degree in Computer Science and Engineering, and I am now studying Space Physics at the University of Michigan. My goal is to be a <q>Full Stack</q> Space Engineer and Space Scientist. This comprises of both instrumentation design and data analysis of space phenomena. Semper Supra!
 
 A data-driven personal website
 ======
