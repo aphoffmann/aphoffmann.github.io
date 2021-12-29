@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &aphoffmann_
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alex Paul Hoffmann"
   avatar           : "profile.png"
-  bio              : "Space Physics Ph.D. Student"
+  bio              : "Ph.D. Student in Climate and Space Sciences and Engineering"
   location         : 
   employer         : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
