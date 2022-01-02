@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Heliophysics & Spaceborne Magnetometry"
+title: "My Journey in Space Physics & Instrumentation"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
