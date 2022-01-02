@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Research"
-    url: /talks/  
+    url: /research/  
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Heliophysics"
-    url: /teaching/    
+  - title: "Space Physics"
+    url: /physics/    
     
   - title: "Hobby"
-    url: /portfolio/
+    url: /hobby/
         
   - title: "Blog & News"
     url: /year-archive/
