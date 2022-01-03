@@ -53,7 +53,7 @@ We artificially inserted data from the SWARM mission in order to simulate the ge
 
 ![](/images/UBSS/MixedSignalsPNI.png){: .align-center .max-width: 200px}
 
-**Figure 6:** Data from the three PNI RM3100 magnetometers shown in figure 5. These mixed signals are composed of two sine waves, two square waves, and the SWARM residual data.
+**test 6:** Data from the three PNI RM3100 magnetometers shown in figure 5. These mixed signals are composed of two sine waves, two square waves, and the SWARM residual data.
 {: .text-center}
 
 The algorithm was tested on 100 seconds of this data. It correctly identified each of the noise signals. The reconstructed geomagnetic field signal is shown in figure 7.
