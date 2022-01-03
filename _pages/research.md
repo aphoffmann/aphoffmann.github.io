@@ -51,9 +51,9 @@ To test our algorithm, we used a mock cubesat shown in figure 5. In this experim
 
 We artificially inserted data from the SWARM mission in order to simulate the geomagnetic field. This produces the following signals as shown in figure 6.
 
-![](/images/UBSS/MixedSignalsPNI.png){: .align-center .max-width: 200px}
+![](/images/UBSS/MixedSignalsPNI.png){: .align-center .max-width: 100px}
 
-**test 6:** Data from the three PNI RM3100 magnetometers shown in figure 5. These mixed signals are composed of two sine waves, two square waves, and the SWARM residual data.
+**Figure 6:** Data from the three PNI RM3100 magnetometers shown in figure 5. These mixed signals are composed of two sine waves, two square waves, and the SWARM residual data.
 {: .text-center}
 
 The algorithm was tested on 100 seconds of this data. It correctly identified each of the noise signals. The reconstructed geomagnetic field signal is shown in figure 7.
