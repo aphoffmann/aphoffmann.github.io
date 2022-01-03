@@ -47,11 +47,11 @@ To test our algorithm, we used a mock cubesat shown in figure 5. In this experim
 **Figure 5:** The plot on the left shows the magnetometer data in the time-frequency domain forming straight lines that correspond to each source signal. The plot on the right shows these signals projected into a clusterable form.
 {: .text-center}
 
-## Results
+### Results
 
 We artificially inserted data from the SWARM mission in order to simulate the geomagnetic field. This produces the following signals as shown in figure 6.
 
-![](/images/UBSS/MixedSignalsPNI.png){: .align-center .width-half}
+![](/images/UBSS/MixedSignalsPNI.png){: .align-center .max-width: 200px}
 
 **Figure 6:** Data from the three PNI RM3100 magnetometers shown in figure 5. These mixed signals are composed of two sine waves, two square waves, and the SWARM residual data.
 {: .text-center}
