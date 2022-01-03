@@ -1,5 +1,10 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Improving Space Magnetometry"
 ---
 
+My two research agendas are developing high fidelity spacecraft instrumentation and analysis of in situ spacecraft telemetry. My current research project investigates how to remove spacecraft noise from in magnetic field measurements.
+
+Magnetometers are instruments that measure magnetic fields. Spacecraft electrical systems such as Solar Panels, Magnetorquers, Battery Currents, and Reaction Wheels create Magnetic noise. These noise signals interfere with magnetic field data.
+
+![Test](/images/UBSS/michibiki.jpg) 

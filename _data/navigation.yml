@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Space Physics"
-    url: /physics/    
+#  - title: "Space Physics"
+#    url: /physics/    
     
-  - title: "Hobby"
-    url: /hobby/
+#  - title: "Hobby"
+#    url: /hobby/
         
   - title: "Blog & News"
     url: /year-archive/
