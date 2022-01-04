@@ -15,7 +15,7 @@ gallery:
 
 ---
 
-My two research agendas are developing high fidelity spacecraft instrumentation and analysis of in situ spacecraft telemetry. My current research project investigates how to remove spacecraft noise from in magnetic field measurements.
+My two research agendas are developing high fidelity spacecraft instrumentation and analysis of in situ spacecraft telemetry. My current research project investigates how to remove spacecraft noise from magnetic field measurements.
 
 ## Noise Cancellation
 
