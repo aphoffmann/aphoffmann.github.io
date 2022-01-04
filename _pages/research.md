@@ -3,12 +3,12 @@ permalink: /research/
 title: "Improving Space Magnetometry"
 
 gallery:
-  - url: /images/UBSS/MixedSignalsPNI.png
-    image_path: /images/UBSS/MixedSignalsPNI.png
+  - url: UBSS/MixedSignalsPNI.png
+    image_path: UBSS/MixedSignalsPNI.png
     alt: "placeholder image 1"
     title: "Data from the three PNI RM3100 magnetometers shown in figure 5. These mixed signals are composed of two sine waves, two square waves, and the SWARM residual data."
-  - url: /images/UBSS/recoveredGMF.png
-    image_path: /images/UBSS/recoveredGMF.png
+  - url: UBSS/recoveredGMF.png
+    image_path: UBSS/recoveredGMF.png
     alt: "placeholder image 2"
     title: "The recovered geomagnetic field signal in blue versus the true signal in orange."
 
@@ -55,7 +55,7 @@ In the second step, the mixing matrix is used in a process called **Compressive 
 
 To test our algorithm, we used a mock cubesat shown in figure 5. In this experiment, electrical current is run through four copper coils in order to create magnetic noise signals. The noise signals are recorded by three PNI RM3100 magnetometers. 
 
-![image-center](/images/UBSS/cubesat.jpg){: .align-center}
+![image-right](/images/UBSS/cubesat.jpg){: .align-right}
 **Figure 5:** The plot on the left shows the magnetometer data in the time-frequency domain forming straight lines that correspond to each source signal. The plot on the right shows these signals projected into a clusterable form.
 {: .text-center}
 
