@@ -35,7 +35,7 @@ I developed an algorithm based on Underdetermined Blind Source Separation (UBSS)
 Humans can do this automatically. If you focus on a specific person in a noisy room, you can often isolate their voice perfectly. The japanese emperor, 聖徳太子 (Shotoku Taishi), was rumored to be able to listen to ten advisors simultaneously during his reign in the 574 C.E.
 
 ![image-center](/images/UBSS/UBSS.png){: .align-center}
-**Figure 3:** Underdetermined Blind Source Separation.
+**Figure 2:** Underdetermined Blind Source Separation.
 {: .text-center}
 
 
@@ -45,22 +45,25 @@ The complication of using UBSS to identify magnetic noise signals is that magnet
 Removing spacecraft noise from magnetic field data is a two step process. In the first step we identify noise signals using clustering. If you plot magnetometer data against each other, each source signal will draw straight lines. This data can be projected into a clusterable form to reconstruct the **mixing matrix**. Figure 4 shows this process.
 
 ![image-center](/images/UBSS/clustering.jpg){: .align-center}
-**Figure 4:** The plot on the left shows the magnetometer data in the time-frequency domain forming straight lines that correspond to each source signal. The plot on the right shows these signals projected into a clusterable form.
+**Figure 3:** The plot on the left shows the magnetometer data in the time-frequency domain forming straight lines that correspond to each source signal. The plot on the right shows these signals projected into a clusterable form.
 {: .text-center}
 
-In order to discover the clusters in figure 4, we use an algorithm called [DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html). DBSCAN is a clustering algorithm that does not require the number of clusters to be known beforehand, and will also ignore noise points. The clusters that DBSCAN return define the mixing matrix of the system.
+In order to discover the clusters in figure 3, we use an algorithm called [DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html). DBSCAN is a clustering algorithm that does not require the number of clusters to be known beforehand, and will also ignore noise points. The clusters that DBSCAN return define the mixing matrix of the system.
 
 In the second step, the mixing matrix is used in a process called **Compressive Sensing**. Compressive sensing is a method originally for audio and video compression. Compressive sensing is used to reconstruct the source signals from the mixing matrix.
 
-To test our algorithm, we used a mock cubesat shown in figure 5. In this experiment, electrical current is run through four copper coils in order to create magnetic noise signals. The noise signals are recorded by three PNI RM3100 magnetometers. 
 
 ![image-right](/images/UBSS/cubesat.jpg){: .align-right}
+To test our algorithm, we used a mock cubesat shown in the figure on the right. In this experiment, electrical current is run through four copper coils in order to create magnetic noise signals. The noise signals are recorded by three PNI RM3100 magnetometers. 
 
 
+
+   
+   
+   
+   
 ### Results
 
 We artificially inserted data from the SWARM mission in order to simulate the geomagnetic field. This produces the following signals as shown in the figures below. The algorithm was tested on 100 seconds of this data. It correctly identified each of the noise signals. The reconstructed geomagnetic field signal is shown in figure 7.
-
-
 
 {% include gallery caption="Mixed and Separated Signals" %}
