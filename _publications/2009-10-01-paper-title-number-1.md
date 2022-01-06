@@ -10,6 +10,6 @@ citation: 'TBA'
 ---
 Spacecraft electronics generate magnetic noise that interferes with magnetic field measurements. We present an algorithm based on UBSS and signal compression to remove spacecraft noise.
 
-[Download paper here](http://aphoffmann.github.io/files/paper1.pdf)
+#[Download paper here](http://aphoffmann.github.io/files/paper1.pdf)
 
 Recommended citation: TBA
