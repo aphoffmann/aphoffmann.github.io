@@ -56,11 +56,10 @@ In the second step, the mixing matrix is used in a process called **Compressive 
 ![image-right](/images/UBSS/cubesat.jpg){: .align-right}
 To test our algorithm, we used a mock cubesat shown in the figure on the right. In this experiment, electrical current is run through four copper coils in order to create magnetic noise signals. The noise signals are recorded by three PNI RM3100 magnetometers. 
 
-<p></p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
    
    
-   
+   TEST
    
 ### Results
 
