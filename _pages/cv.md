@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://aphoffmann.github.io/files/aphoffmann.pdf" type="application/pdf" width="600px" height="500px" />
+
 Education
 ======
 * B.S.E. in Computer Science and Engineering, University of Iowa, 2021
