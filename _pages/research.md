@@ -50,16 +50,11 @@ Removing spacecraft noise from magnetic field data is a two step process. In the
 
 In order to discover the clusters in figure 3, we use an algorithm called [DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html). DBSCAN is a clustering algorithm that does not require the number of clusters to be known beforehand, and will also ignore noise points. The clusters that DBSCAN return define the mixing matrix of the system.
 
+![image-right](/images/UBSS/cubesat.jpg){: .align-right}
 In the second step, the mixing matrix is used in a process called **Compressive Sensing**. Compressive sensing is a method originally for audio and video compression. Compressive sensing is used to reconstruct the source signals from the mixing matrix.
 
-
-![image-right](/images/UBSS/cubesat.jpg){: .align-right}
 To test our algorithm, we used a mock cubesat shown in the figure on the right. In this experiment, electrical current is run through four copper coils in order to create magnetic noise signals. The noise signals are recorded by three PNI RM3100 magnetometers. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-   
-   
-   TEST
    
 ### Results
 
