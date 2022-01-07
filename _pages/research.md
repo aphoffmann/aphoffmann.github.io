@@ -19,7 +19,7 @@ My two research agendas are developing high fidelity spacecraft instrumentation 
 
 ## Noise Cancellation
 
-Magnetometers are instruments that measure magnetic fields. Spacecraft electrical systems such as solar panels, magnetorquers, battery currents, and reaction Wheels create noise in the form of magnetic fields. These noise signals interfere with magnetic field data germane to scientific investigation. Figure 1 shows an example of noisy magnetometer data recorded by a japanese satellite.
+Magnetometers are instruments that measure magnetic fields. Spacecraft electrical systems such as solar panels, magnetorquers, battery currents, and reaction wheels create noise in the form of magnetic fields. These noise signals interfere with magnetic field data germane to scientific investigation. Figure 1 shows an example of noisy magnetometer data recorded by a japanese satellite.
 
 
 ![image-center](/images/UBSS/michibiki.jpg){: .align-center}
@@ -56,7 +56,7 @@ In the second step, the mixing matrix is used in a process called **Compressive 
 ![image-right](/images/UBSS/cubesat.jpg){: .align-right}
 To test our algorithm, we used a mock cubesat shown in the figure on the right. In this experiment, electrical current is run through four copper coils in order to create magnetic noise signals. The noise signals are recorded by three PNI RM3100 magnetometers. 
 
-
+<p></p>
 
    
    
