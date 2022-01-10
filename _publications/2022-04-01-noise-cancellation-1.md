@@ -3,7 +3,7 @@ title: "[In Progress] Separation of Spacecraft Noise from Geomagnetic Field Data
 collection: publications
 permalink: /publication/2022-01-01-noise-cancellation
 excerpt: 'Spacecraft electronics generate magnetic noise that interferes with magnetic field measurements. We present an algorithm based on UBSS and signal compression to remove spacecraft noise.'
-date: 2020-01-01
+date: 2022-04-20
 venue: 'TBD'
 paperurl: 'http://aphoffmann.github.io/files/paper1.pdf'
 citation: 'TBA'
