@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alex P. Hoffmann"
 title_separator          : "-"
 name                     : &name "Alex Paul Hoffmann"
-description              : &description "Ph.D. Student, University of Michigan"
+description              : &description "Ph.D. Candidate, University of Michigan"
 url                      : https://aphoffmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aphoffmann/aphoffmann.github.io"
@@ -98,7 +98,7 @@ author:
   github           : "aphoffmann"
   google_plus      :
   keybase          :
-  instagram        : "solar.strength"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/alex-p-hoffmann/"

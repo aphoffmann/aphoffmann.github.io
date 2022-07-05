@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a <strong>Computer Engineer</strong> and <strong>Space Physicist</strong> at the University of Michigan. I graduated from the University of Iowa with a dual degree in Computer Science and Engineering, and I am now pursuing a Ph.D. in Climate and Space Sciences and Engineering at the University of Michigan. My goal is to be a <q>Full Stack</q> Space Engineer and Space Scientist. This comprises of both instrumentation design and data analysis of space phenomena. Semper Supra!
+I am a <strong>Computer Engineer</strong> and <strong>Space Physicist</strong> at the University of Michigan. I graduated from the University of Iowa with a dual degree in Computer Science and Engineering, and I am now pursuing a Ph.D. in Climate and Space Sciences and Engineering at the University of Michigan. My goal is to be a <q>Full Stack</q> Space Engineer and Space Scientist. This comprises of both instrumentation design and data analysis of space phenomena.
 
 ![image-center](/images/About/zeroG.jpg){: .align-center}
 
