@@ -43,7 +43,7 @@ Jalapeños
 1/4 cup milk
 1/4 cup flour
 
-<strong>For the crust:<strong>
+<strong>For the crust:</strong>
 2 premade pie crusts sprinkled with sesame seeds.
 
 To start, make the sauce by mixing together all of the sauce ingredients in a small bowl. Set aside.
