@@ -57,19 +57,20 @@ Pour the broth mixture over the ground turkey and vegetable mixture, and stir to
 Preheat your oven to 400 degrees. Place one pie crust into the bottom of a 9-inch pie dish. Pour the filling mixture into the crust, making sure to evenly distribute it. Pour in the Big Mac Sauce on top of the filling and layer the pickles Place the other pie crust on top, and use a fork to crimp the edges together. Cut a few slits in the top of the crust to allow steam to escape.
 
 ![image-center](/images/potpie/uncookedpie.jpg){: .align-center}
-**Figure 1:** Uncooked pot pie. Big mac sauce and pickles are layered on top of the filling.
+Uncooked pot pie. Big mac sauce and pickles are layered on top of the filling.
 {: .text-center}
 
 Place the pie dish on a baking sheet (to catch any potential drips) and bake for 40-45 minutes, or until the crust is golden brown and the filling is hot and bubbly.
 
-![image-center](/images/potpie/cooked.jpg){: .align-center}
-**Figure 1:** The finished product! Behold: the Big Mac Pot Pie.
+![image-center](/images/potpie/cookedpie.jpg){: .align-center}
+The finished product! Behold: the Big Mac Pot Pie.
 {: .text-center}
 
 Serve the Big Mac pot pie hot, with a side of fries and a cold beverage. Your family and friends will be surprised at how delicious this unexpected twist on a classic pot pie is. It's the perfect way to mix things up and add a little bit of fast food fun to your Christmas dinner. 
 
-From my family to yours, Happy Holidays and Happy cooking!
 
 ![image-center](/images/potpie/hoffmannfamily.jpg){: .align-center}
-**Figure 1:** The finished product! Behold: the Big Mac Pot Pie.
+From my family to yours, Happy Holidays and Happy cooking!
 {: .text-center}
+
+<strong> Disclaimer: </strong> this blog post was mostly written by chatGPT. The ingredients to the recipe are correct, but follow the steps at your own peril.
