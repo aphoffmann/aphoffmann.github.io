@@ -1,6 +1,6 @@
 ---
 title: 'The Big Mac Pot Pie - A New Christmas Tradition'
-date: 2023-01-15
+date: 2023-01-11
 permalink: /posts/2023/01/blog-post-2/
 tags:
   - Recipe
