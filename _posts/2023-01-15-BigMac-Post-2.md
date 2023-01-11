@@ -17,35 +17,40 @@ This recipe takes all the classic flavors of a Big Mac and combines them with a 
 Here's what you'll need to make this delicious pot pie:
 
 <strong>For the sauce:</strong>
-
-2 teaspoons granulated sugar
-1/2 teaspoon paprika
-1/2 teaspoon white wine vinegar
-2 tablespoons sweet pickle relish
-1 tablespoon yellow mustard
-1/4 teaspoon garlic powder
-1/4 teaspoon onion powder
-3/4 cup mayonnaise
+<ul>
+<li>2 teaspoons granulated sugar</li>
+<li>1/2 teaspoon paprika</li>
+<li>1/2 teaspoon white wine vinegar</li>
+<li>2 tablespoons sweet pickle relish</li>
+<li>1 tablespoon yellow mustard</li>
+<li>1/4 teaspoon garlic powder</li>
+<li>1/4 teaspoon onion powder</li>
+<li>3/4 cup mayonnaise</li>
+</ul>
 
 <strong>For the filling:</strong>
-
-Pickles
-Sesame seeds
-Jalapeños
-1 pound ground turkey
-1 small carrot, diced
-1 cup mushrooms, diced
-1 small onion, diced
+<ul>
+<li>Pickles</li>
+<li>Sesame seeds</li>
+<li>Jalapeños</li>
+<li>1 pound ground turkey</li>
+<li>1 small carrot, diced</li>
+<li>1 cup mushrooms, diced</li>
+<li>1 small onion, diced</li>
+</ul>
 
 <strong>For the broth:</strong>
-1 tablespoon butter
-1 cup chicken broth
-1/4 cup milk
-1/4 cup flour
+<ul>
+<li>1 tablespoon butter</li>
+<li>1 cup chicken broth</li>
+<li>1/4 cup milk</li>
+<li>1/4 cup flour</li>
+</ul>
 
 <strong>For the crust:</strong>
-2 premade pie crusts sprinkled with sesame seeds.
-
+<ul>
+<li>2 premade pie crusts sprinkled with sesame seeds.</li>
+</ul>
 To start, make the sauce by mixing together all of the sauce ingredients in a small bowl. Set aside.
 
 Next, heat a large pan over medium heat and add the ground turkey. Cook the turkey until it's browned and crumbled. Add in the carrot, mushrooms, onion, and jalapeños and cook for an additional 2-3 minutes until the vegetables are tender.
