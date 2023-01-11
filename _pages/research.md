@@ -3,11 +3,11 @@ permalink: /research/
 title: "Improving Space Magnetometry"
 
 gallery:
-  - url: UBSS/MixedSignalsPNI.png
+  - url: UBSS/MixedSignalsPNI.jpg
     image_path: UBSS/MixedSignalsPNI.jpg
     alt: "placeholder image 1"
     title: "Data from the three PNI RM3100 magnetometers shown in figure 5. These mixed signals are composed of two sine waves, two square waves, and the SWARM residual data."
-  - url: UBSS/recoveredGMF.png
+  - url: UBSS/recoveredGMF.jpg
     image_path: UBSS/recoveredGMF.jpg
     alt: "placeholder image 2"
     title: "The top plot (a) shows the cleaned magnetometer signal in blue with the ambient magnetic field signal overlayed in orange. Plot (b) shows a spectrogram of the uncleaned signal from magnetometer (a) in Figure 9. Plot (c) shows a spectrogram of the reconstructed ambient magnetic field signal. Plot (d) shows a spectrogram of the true ambient magnetic field signal. The spectrograms were created using wavelet analysis. The shaded areas indicate where the wavelet does not produce valid results. The bottom plot (d) shows a histogram of the signal reconstruction error."
